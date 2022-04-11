@@ -1,4 +1,4 @@
-gym management system
+GYM MANAGEMENT SYSYTEM
 ===================
 
 Gym Management System
